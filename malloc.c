@@ -12,5 +12,5 @@ ptr=(int)relloc(ptr,size of(int)*3);
 printf("%d",(ptr_new+i));
 getchar();
 return 0;
-}
+}//end
 
