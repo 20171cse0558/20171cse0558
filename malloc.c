@@ -6,7 +6,8 @@ int arr[2],i;
 int ptr=arr;
 int ptr_new;
 arr[0]=10;//wassup
-arr[1]=20;//fcb campeone
+arr[1]=20
+Br1
 ptr=(int)relloc(ptr,size of(int)*3);
 (ptr_new + 2) = 30;
 printf("%d",(ptr_new+i));
