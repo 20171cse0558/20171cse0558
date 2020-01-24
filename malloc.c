@@ -5,7 +5,7 @@ int main()
 int arr[2],i;
 int ptr=arr;
 int ptr_new;
-arr[0]=10;
+arr[0]=10;//wassup
 arr[1]=20;
 ptr=(int)relloc(ptr,size of(int)*3);
 (ptr_new + 2) = 30;
